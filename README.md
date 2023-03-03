@@ -1,0 +1,2 @@
+# TheVirtualBookShop
+.NET 7
